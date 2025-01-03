@@ -1,0 +1,312 @@
+[
+    {
+        "date": "2024-12-31",
+        "exchange": "NASDAQ Capital",
+        "name": "OneConstruction Group Ltd",
+        "numberOfShares": 1750000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "ONEG",
+        "totalSharesValue": 7000000
+    },
+    {
+        "date": "2024-12-27",
+        "exchange": null,
+        "name": "Helio Corp /FL/",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "",
+        "totalSharesValue": 19166670
+    },
+    {
+        "date": "2024-12-27",
+        "exchange": null,
+        "name": "ASCENTAGE PHARMA GROUP INTERNATIONAL",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "AAPG",
+        "totalSharesValue": 100000000
+    },
+    {
+        "date": "2024-12-26",
+        "exchange": null,
+        "name": "SAGTEC GLOBAL Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "SAGT",
+        "totalSharesValue": 9200000
+    },
+    {
+        "date": "2024-12-23",
+        "exchange": "NASDAQ Capital",
+        "name": "Health In Tech, Inc.",
+        "numberOfShares": 2300000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "HIT",
+        "totalSharesValue": 9200000
+    },
+    {
+        "date": "2024-12-23",
+        "exchange": null,
+        "name": "Arrive AI Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "ARAI",
+        "totalSharesValue": 372700000
+    },
+    {
+        "date": "2024-12-23",
+        "exchange": null,
+        "name": "Aimei Health Technology II Co., Ltd.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "AHJKU",
+        "totalSharesValue": 69000000
+    },
+    {
+        "date": "2024-12-23",
+        "exchange": null,
+        "name": "SFIDA X, Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "SFDX",
+        "totalSharesValue": 11500000
+    },
+    {
+        "date": "2024-12-20",
+        "exchange": "NASDAQ Capital",
+        "name": "Youxin Technology Ltd",
+        "numberOfShares": 2300000,
+        "price": "4.50",
+        "status": "priced",
+        "symbol": "YAAS",
+        "totalSharesValue": 10350000
+    },
+    {
+        "date": "2024-12-19",
+        "exchange": null,
+        "name": "PEAR WORKSHOP LTD.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "CLGF",
+        "totalSharesValue": 5000000
+    },
+    {
+        "date": "2024-12-18",
+        "exchange": null,
+        "name": "Clean Vision Corp",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-12-18",
+        "exchange": "NASDAQ Capital",
+        "name": "YSX Tech Co., Ltd",
+        "numberOfShares": 1250000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "YSXT",
+        "totalSharesValue": 5000000
+    },
+    {
+        "date": "2024-12-18",
+        "exchange": "NASDAQ Capital",
+        "name": "New Century Logistics (BVI) Ltd",
+        "numberOfShares": 1500000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "NCEW",
+        "totalSharesValue": 6000000
+    },
+    {
+        "date": "2024-12-18",
+        "exchange": null,
+        "name": "JAJI Global Inc",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "",
+        "totalSharesValue": 20000000
+    },
+    {
+        "date": "2024-12-16",
+        "exchange": null,
+        "name": "Metros Development Co., Ltd.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-12-13",
+        "exchange": "NASDAQ Global",
+        "name": "Anteris Technologies Global Corp.",
+        "numberOfShares": 14800000,
+        "price": "6.00",
+        "status": "priced",
+        "symbol": "AVR",
+        "totalSharesValue": 88800000
+    },
+    {
+        "date": "2024-12-13",
+        "exchange": "NASDAQ Capital",
+        "name": "NetClass Technology Inc",
+        "numberOfShares": 1800000,
+        "price": "5.00",
+        "status": "priced",
+        "symbol": "NTCL",
+        "totalSharesValue": 9000000
+    },
+    {
+        "date": "2024-12-13",
+        "exchange": null,
+        "name": "Gansu Yunzhao Ruyi Technology Development Co., Ltd.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "YZRY",
+        "totalSharesValue": 60000000
+    },
+    {
+        "date": "2024-12-12",
+        "exchange": "NASDAQ Global Select",
+        "name": "ServiceTitan, Inc.",
+        "numberOfShares": 8800000,
+        "price": "71.00",
+        "status": "priced",
+        "symbol": "TTAN",
+        "totalSharesValue": 624800000
+    },
+    {
+        "date": "2024-12-10",
+        "exchange": null,
+        "name": "TMD Energy Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "TMDE",
+        "totalSharesValue": 13368750
+    },
+    {
+        "date": "2024-12-10",
+        "exchange": null,
+        "name": "Grande Group Ltd/HK",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "GRAN",
+        "totalSharesValue": 12937500
+    },
+    {
+        "date": "2024-12-10",
+        "exchange": null,
+        "name": "LEIFRAS Co., Ltd.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "LFS",
+        "totalSharesValue": 9200000
+    },
+    {
+        "date": "2024-12-09",
+        "exchange": null,
+        "name": "SS Innovations International, Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-12-06",
+        "exchange": null,
+        "name": "Luda Technology Group Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-12-06",
+        "exchange": null,
+        "name": "Luda Technology Group Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "LUD",
+        "totalSharesValue": 11500000
+    },
+    {
+        "date": "2024-12-05",
+        "exchange": "NASDAQ Global",
+        "name": "zSpace, Inc.",
+        "numberOfShares": 1875000,
+        "price": "5.00",
+        "status": "priced",
+        "symbol": "ZSPC",
+        "totalSharesValue": 9375000
+    },
+    {
+        "date": "2024-12-05",
+        "exchange": "NASDAQ Capital",
+        "name": "Linkers Industries Ltd",
+        "numberOfShares": 1900000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "LNKS",
+        "totalSharesValue": 7600000
+    },
+    {
+        "date": "2024-12-05",
+        "exchange": null,
+        "name": "Punk Code International Group Co., Ltd.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "PKCD",
+        "totalSharesValue": 15000000
+    },
+    {
+        "date": "2024-12-03",
+        "exchange": "NASDAQ Capital",
+        "name": "JUPITER NEUROSCIENCES, INC.",
+        "numberOfShares": 2750000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "JUNS",
+        "totalSharesValue": 11000000
+    },
+    {
+        "date": "2024-12-03",
+        "exchange": null,
+        "name": "Mountain&Sea Health Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "SYH",
+        "totalSharesValue": 8625000
+    },
+    {
+        "date": "2024-12-02",
+        "exchange": null,
+        "name": "GATES GROUP Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "GTSG",
+        "totalSharesValue": 18687500
+    }
+]

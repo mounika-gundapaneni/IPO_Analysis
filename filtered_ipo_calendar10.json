@@ -1,0 +1,352 @@
+[
+    {
+        "date": "2024-10-31",
+        "exchange": null,
+        "name": "Republic Power Group Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-10-31",
+        "exchange": null,
+        "name": "GrowHub Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "TGHL",
+        "totalSharesValue": 15668750
+    },
+    {
+        "date": "2024-10-31",
+        "exchange": null,
+        "name": "PicoCELA Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "PCLA",
+        "totalSharesValue": 13800000
+    },
+    {
+        "date": "2024-10-30",
+        "exchange": null,
+        "name": "Archimedes Tech SPAC Partners II Co.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "ATIIU",
+        "totalSharesValue": 230000000
+    },
+    {
+        "date": "2024-10-29",
+        "exchange": "NASDAQ Capital",
+        "name": "Gelteq Ltd",
+        "numberOfShares": 1300000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "GELS",
+        "totalSharesValue": 5200000
+    },
+    {
+        "date": "2024-10-29",
+        "exchange": "NASDAQ Capital",
+        "name": "Polyrizon Ltd.",
+        "numberOfShares": 958903,
+        "price": "4.38",
+        "status": "priced",
+        "symbol": "PLRZ",
+        "totalSharesValue": 4199995
+    },
+    {
+        "date": "2024-10-29",
+        "exchange": null,
+        "name": "Transten Global Group Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "TTG",
+        "totalSharesValue": 10000000
+    },
+    {
+        "date": "2024-10-29",
+        "exchange": null,
+        "name": "CALLAN JMB INC.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "CJMB",
+        "totalSharesValue": 8832000
+    },
+    {
+        "date": "2024-10-28",
+        "exchange": null,
+        "name": "APRINOIA Therapeutics Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-10-25",
+        "exchange": "NASDAQ Global",
+        "name": "Septerna, Inc.",
+        "numberOfShares": 16000000,
+        "price": "18.00",
+        "status": "priced",
+        "symbol": "SEPN",
+        "totalSharesValue": 288000000
+    },
+    {
+        "date": "2024-10-25",
+        "exchange": "NASDAQ Global Select",
+        "name": "WeRide Inc.",
+        "numberOfShares": 7742400,
+        "price": "15.50",
+        "status": "priced",
+        "symbol": "WRD",
+        "totalSharesValue": 120007200
+    },
+    {
+        "date": "2024-10-23",
+        "exchange": "NASDAQ Global",
+        "name": "Synergy CHC Corp.",
+        "numberOfShares": 1150000,
+        "price": "9.00",
+        "status": "priced",
+        "symbol": "SNYR",
+        "totalSharesValue": 10350000
+    },
+    {
+        "date": "2024-10-23",
+        "exchange": "NASDAQ Capital",
+        "name": "FB Bancorp, Inc. /MD/",
+        "numberOfShares": 19837500,
+        "price": "10.00",
+        "status": "priced",
+        "symbol": "FBLA",
+        "totalSharesValue": 198375000
+    },
+    {
+        "date": "2024-10-23",
+        "exchange": "NASDAQ Capital",
+        "name": "Founder Group Ltd",
+        "numberOfShares": 1218750,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "FGL",
+        "totalSharesValue": 4875000
+    },
+    {
+        "date": "2024-10-23",
+        "exchange": "NYSE MKT",
+        "name": "High Roller Technologies, Inc.",
+        "numberOfShares": 1250000,
+        "price": "8.00",
+        "status": "priced",
+        "symbol": "ROLR",
+        "totalSharesValue": 10000000
+    },
+    {
+        "date": "2024-10-23",
+        "exchange": "NASDAQ Capital",
+        "name": "Li Bang International Corp Inc.",
+        "numberOfShares": 1520000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "LBGJ",
+        "totalSharesValue": 6080000
+    },
+    {
+        "date": "2024-10-22",
+        "exchange": "NASDAQ Global",
+        "name": "Aldel Financial II Inc.",
+        "numberOfShares": 20000000,
+        "price": "10.00",
+        "status": "priced",
+        "symbol": "ALDFU",
+        "totalSharesValue": 200000000
+    },
+    {
+        "date": "2024-10-22",
+        "exchange": "NASDAQ Capital",
+        "name": "HUHUTECH International Group Inc.",
+        "numberOfShares": 1050000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "HUHU",
+        "totalSharesValue": 4200000
+    },
+    {
+        "date": "2024-10-16",
+        "exchange": "NASDAQ Capital",
+        "name": "PTL Ltd",
+        "numberOfShares": 1250000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "PTLE",
+        "totalSharesValue": 5000000
+    },
+    {
+        "date": "2024-10-16",
+        "exchange": null,
+        "name": "Curanex Pharmaceuticals Inc",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "CURX",
+        "totalSharesValue": 13800000
+    },
+    {
+        "date": "2024-10-11",
+        "exchange": "NASDAQ Global",
+        "name": "Camp4 Therapeutics Corp",
+        "numberOfShares": 6820000,
+        "price": "11.00",
+        "status": "priced",
+        "symbol": "CAMP",
+        "totalSharesValue": 75020000
+    },
+    {
+        "date": "2024-10-11",
+        "exchange": "NASDAQ Global Select",
+        "name": "Ceribell, Inc.",
+        "numberOfShares": 10606060,
+        "price": "17.00",
+        "status": "priced",
+        "symbol": "CBLL",
+        "totalSharesValue": 180303020
+    },
+    {
+        "date": "2024-10-11",
+        "exchange": null,
+        "name": "Ruyizhou INC",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "RYZ",
+        "totalSharesValue": 1000000
+    },
+    {
+        "date": "2024-10-10",
+        "exchange": "NASDAQ Capital",
+        "name": "Sky Quarry Inc.",
+        "numberOfShares": 1118005,
+        "price": "6.00",
+        "status": "priced",
+        "symbol": "SKYQ",
+        "totalSharesValue": 6708030
+    },
+    {
+        "date": "2024-10-09",
+        "exchange": "NYSE",
+        "name": "KinderCare Learning Companies, Inc.",
+        "numberOfShares": 24000000,
+        "price": "24.00",
+        "status": "priced",
+        "symbol": "KLC",
+        "totalSharesValue": 576000000
+    },
+    {
+        "date": "2024-10-09",
+        "exchange": null,
+        "name": "Vantage Corp (Singapore)",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "VNTG",
+        "totalSharesValue": 18687500
+    },
+    {
+        "date": "2024-10-08",
+        "exchange": null,
+        "name": "Novelis Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-10-04",
+        "exchange": "NASDAQ Global Select",
+        "name": "BingEx Ltd",
+        "numberOfShares": 4000000,
+        "price": "16.50",
+        "status": "priced",
+        "symbol": "FLX",
+        "totalSharesValue": 66000000
+    },
+    {
+        "date": "2024-10-04",
+        "exchange": "NYSE",
+        "name": "CHAIN BRIDGE BANCORP INC",
+        "numberOfShares": 1850000,
+        "price": "22.00",
+        "status": "priced",
+        "symbol": "CBNA",
+        "totalSharesValue": 40700000
+    },
+    {
+        "date": "2024-10-04",
+        "exchange": null,
+        "name": "INFINITY NATURAL RESOURCES, INC.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "INR",
+        "totalSharesValue": 100000000
+    },
+    {
+        "date": "2024-10-04",
+        "exchange": null,
+        "name": "Smart Logistics Global Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "SLGB",
+        "totalSharesValue": 6900000
+    },
+    {
+        "date": "2024-10-02",
+        "exchange": "NYSE",
+        "name": "FrontView REIT, Inc.",
+        "numberOfShares": 13200000,
+        "price": "19.00",
+        "status": "priced",
+        "symbol": "FVR",
+        "totalSharesValue": 250800000
+    },
+    {
+        "date": "2024-10-02",
+        "exchange": "NYSE",
+        "name": "StandardAero, Inc.",
+        "numberOfShares": 60000000,
+        "price": "24.00",
+        "status": "priced",
+        "symbol": "SARO",
+        "totalSharesValue": 1440000000
+    },
+    {
+        "date": "2024-10-01",
+        "exchange": "NASDAQ Capital",
+        "name": "HomesToLife Ltd",
+        "numberOfShares": 1250000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "HTLM",
+        "totalSharesValue": 5000000
+    },
+    {
+        "date": "2024-10-01",
+        "exchange": "NASDAQ Capital",
+        "name": "ZenaTech, Inc.",
+        "numberOfShares": 17663879,
+        "price": null,
+        "status": "priced",
+        "symbol": "ZENA",
+        "totalSharesValue": 7100900
+    }
+]

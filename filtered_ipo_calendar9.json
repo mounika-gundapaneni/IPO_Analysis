@@ -1,0 +1,242 @@
+[
+    {
+        "date": "2024-09-30",
+        "exchange": "NASDAQ Capital",
+        "name": "ZJK Industrial Co., Ltd.",
+        "numberOfShares": 1250000,
+        "price": "5.00",
+        "status": "priced",
+        "symbol": "ZJK",
+        "totalSharesValue": 6250000
+    },
+    {
+        "date": "2024-09-30",
+        "exchange": null,
+        "name": "Cerebras Systems Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "CBRS",
+        "totalSharesValue": 100000000
+    },
+    {
+        "date": "2024-09-27",
+        "exchange": null,
+        "name": "Leizig Thermal Management Co., Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "LZIG",
+        "totalSharesValue": 12937500
+    },
+    {
+        "date": "2024-09-27",
+        "exchange": null,
+        "name": "Intercont (Cayman) Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "NCT",
+        "totalSharesValue": 38295000
+    },
+    {
+        "date": "2024-09-26",
+        "exchange": "NYSE MKT",
+        "name": "Legacy Education Inc.",
+        "numberOfShares": 2500000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "LGCY",
+        "totalSharesValue": 10000000
+    },
+    {
+        "date": "2024-09-26",
+        "exchange": "NYSE",
+        "name": "Guardian Pharmacy Services, Inc.",
+        "numberOfShares": 8000000,
+        "price": "14.00",
+        "status": "priced",
+        "symbol": "GRDN",
+        "totalSharesValue": 112000000
+    },
+    {
+        "date": "2024-09-26",
+        "exchange": "NYSE",
+        "name": "BKV Corp",
+        "numberOfShares": 15000000,
+        "price": "18.00",
+        "status": "priced",
+        "symbol": "BKV",
+        "totalSharesValue": 270000000
+    },
+    {
+        "date": "2024-09-26",
+        "exchange": "NASDAQ Capital",
+        "name": "Innovation Beverage Group Ltd",
+        "numberOfShares": 1350000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "IBG",
+        "totalSharesValue": 5400000
+    },
+    {
+        "date": "2024-09-25",
+        "exchange": null,
+        "name": "Apimeds Pharmaceuticals US, Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "APUS",
+        "totalSharesValue": 11500000
+    },
+    {
+        "date": "2024-09-17",
+        "exchange": null,
+        "name": "Yuanbao Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "YB",
+        "totalSharesValue": 50000000
+    },
+    {
+        "date": "2024-09-16",
+        "exchange": "NYSE MKT",
+        "name": "Kairos Pharma, LTD.",
+        "numberOfShares": 1550000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "KAPA",
+        "totalSharesValue": 6200000
+    },
+    {
+        "date": "2024-09-16",
+        "exchange": "NYSE MKT",
+        "name": "HEALTHY CHOICE WELLNESS CORP.",
+        "numberOfShares": 400000,
+        "price": "10.00",
+        "status": "priced",
+        "symbol": "HCWC",
+        "totalSharesValue": 4000000
+    },
+    {
+        "date": "2024-09-16",
+        "exchange": null,
+        "name": "Empro Group Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "EMPG",
+        "totalSharesValue": 5000000
+    },
+    {
+        "date": "2024-09-13",
+        "exchange": "NASDAQ Global",
+        "name": "Bicara Therapeutics Inc.",
+        "numberOfShares": 17500000,
+        "price": "18.00",
+        "status": "priced",
+        "symbol": "BCAX",
+        "totalSharesValue": 315000000
+    },
+    {
+        "date": "2024-09-13",
+        "exchange": null,
+        "name": "Basel Medical Group Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "BMGL",
+        "totalSharesValue": 5750000
+    },
+    {
+        "date": "2024-09-13",
+        "exchange": "NYSE MKT",
+        "name": "Flewber Global Inc.",
+        "numberOfShares": 1675000,
+        "price": "4.00-5.00",
+        "status": "expected",
+        "symbol": "FLAI",
+        "totalSharesValue": 9631250
+    },
+    {
+        "date": "2024-09-12",
+        "exchange": "NASDAQ Capital",
+        "name": "Galaxy Payroll Group Ltd",
+        "numberOfShares": 1750000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "GLXG",
+        "totalSharesValue": 7000000
+    },
+    {
+        "date": "2024-09-11",
+        "exchange": null,
+        "name": "Diginex Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "DGNX",
+        "totalSharesValue": 15525000
+    },
+    {
+        "date": "2024-09-11",
+        "exchange": null,
+        "name": "CLOUDASTRUCTURE, INC.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "CSAI",
+        "totalSharesValue": 3315167
+    },
+    {
+        "date": "2024-09-10",
+        "exchange": "NASDAQ Global",
+        "name": "XCHG Ltd",
+        "numberOfShares": 3333335,
+        "price": "6.20",
+        "status": "priced",
+        "symbol": "XCH",
+        "totalSharesValue": 20666677
+    },
+    {
+        "date": "2024-09-06",
+        "exchange": null,
+        "name": "Fast Track Group",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "FTRK",
+        "totalSharesValue": 21562500
+    },
+    {
+        "date": "2024-09-05",
+        "exchange": "NASDAQ Capital",
+        "name": "Powell Max Ltd",
+        "numberOfShares": 1426750,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "PMAX",
+        "totalSharesValue": 5707000
+    },
+    {
+        "date": "2024-09-04",
+        "exchange": null,
+        "name": "Mint Inc Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "MIMI",
+        "totalSharesValue": 10062500
+    },
+    {
+        "date": "2024-09-03",
+        "exchange": null,
+        "name": "Eastern International Ltd.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "ELOG",
+        "totalSharesValue": 9200000
+    }
+]

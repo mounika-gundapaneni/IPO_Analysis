@@ -1,0 +1,322 @@
+[
+    {
+        "date": "2024-11-29",
+        "exchange": null,
+        "name": "YIZHIHUI TECHNOLOGY ELDERLY CARE GROUP CO., LTD",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "DYZH",
+        "totalSharesValue": 1000000
+    },
+    {
+        "date": "2024-11-27",
+        "exchange": "NASDAQ Global Select",
+        "name": "Pony AI Inc.",
+        "numberOfShares": 20000000,
+        "price": "13.00",
+        "status": "priced",
+        "symbol": "PONY",
+        "totalSharesValue": 260000000
+    },
+    {
+        "date": "2024-11-27",
+        "exchange": "NYSE MKT",
+        "name": "BrilliA Inc",
+        "numberOfShares": 2500000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "BRIA",
+        "totalSharesValue": 10000000
+    },
+    {
+        "date": "2024-11-27",
+        "exchange": "NYSE MKT",
+        "name": "Brazil Potash Corp.",
+        "numberOfShares": 2000000,
+        "price": "15.00",
+        "status": "priced",
+        "symbol": "GRO",
+        "totalSharesValue": 30000000
+    },
+    {
+        "date": "2024-11-25",
+        "exchange": null,
+        "name": "Top Win International Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "TOPW",
+        "totalSharesValue": 18381600
+    },
+    {
+        "date": "2024-11-22",
+        "exchange": null,
+        "name": "Papa Medical Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "PAPA",
+        "totalSharesValue": 27600000
+    },
+    {
+        "date": "2024-11-22",
+        "exchange": null,
+        "name": "Waton Financial Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "WTF",
+        "totalSharesValue": 40000000
+    },
+    {
+        "date": "2024-11-21",
+        "exchange": null,
+        "name": "FG Merger III Corp.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-11-21",
+        "exchange": "NASDAQ Global",
+        "name": "Dynamix Corp",
+        "numberOfShares": 15000000,
+        "price": "10.00",
+        "status": "priced",
+        "symbol": "DYNXU",
+        "totalSharesValue": 150000000
+    },
+    {
+        "date": "2024-11-21",
+        "exchange": "NASDAQ Global",
+        "name": "CO2 Energy Transition Corp.",
+        "numberOfShares": 6000000,
+        "price": "10.00",
+        "status": "priced",
+        "symbol": "NOEMU",
+        "totalSharesValue": 60000000
+    },
+    {
+        "date": "2024-11-19",
+        "exchange": null,
+        "name": "NUSATRIP Inc",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "NUTR",
+        "totalSharesValue": 15525000
+    },
+    {
+        "date": "2024-11-18",
+        "exchange": "NASDAQ Global",
+        "name": "Damon Inc.",
+        "numberOfShares": 1015383,
+        "price": null,
+        "status": "priced",
+        "symbol": "DMN",
+        "totalSharesValue": 191597.64
+    },
+    {
+        "date": "2024-11-15",
+        "exchange": null,
+        "name": "STAK Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "STAK",
+        "totalSharesValue": 5750000
+    },
+    {
+        "date": "2024-11-15",
+        "exchange": null,
+        "name": "LOGPROSTYLE INC.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "LGPS",
+        "totalSharesValue": 17250000
+    },
+    {
+        "date": "2024-11-14",
+        "exchange": null,
+        "name": "MaxsMaking Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "MAMK",
+        "totalSharesValue": 11500000
+    },
+    {
+        "date": "2024-11-13",
+        "exchange": "NASDAQ Capital",
+        "name": "Invizyne Technologies Inc",
+        "numberOfShares": 1875000,
+        "price": "8.00",
+        "status": "priced",
+        "symbol": "IZTC",
+        "totalSharesValue": 15000000
+    },
+    {
+        "date": "2024-11-13",
+        "exchange": "NYSE MKT",
+        "name": "Peak Resources LP",
+        "numberOfShares": 4700000,
+        "price": "13.00-15.00",
+        "status": "expected",
+        "symbol": "PRB",
+        "totalSharesValue": 81075000
+    },
+    {
+        "date": "2024-11-12",
+        "exchange": "NASDAQ Capital",
+        "name": "Alpha Cognition Inc.",
+        "numberOfShares": 8695653,
+        "price": "5.75",
+        "status": "priced",
+        "symbol": "ACOG",
+        "totalSharesValue": 50000005
+    },
+    {
+        "date": "2024-11-12",
+        "exchange": null,
+        "name": "QDM International Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "",
+        "totalSharesValue": 7500000
+    },
+    {
+        "date": "2024-11-12",
+        "exchange": null,
+        "name": "KNOREX LTD.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "KNRX",
+        "totalSharesValue": 15812500
+    },
+    {
+        "date": "2024-11-12",
+        "exchange": null,
+        "name": "MASTERBEEF GROUP",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "MB",
+        "totalSharesValue": 11500000
+    },
+    {
+        "date": "2024-11-12",
+        "exchange": null,
+        "name": "Smart Digital Group Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "SDM",
+        "totalSharesValue": 9000000
+    },
+    {
+        "date": "2024-11-07",
+        "exchange": null,
+        "name": "Navios South American Logistics Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-11-07",
+        "exchange": "NASDAQ Capital",
+        "name": "ADURO CLEAN TECHNOLOGIES INC.",
+        "numberOfShares": 941177,
+        "price": "4.25",
+        "status": "priced",
+        "symbol": "ADUR",
+        "totalSharesValue": 4000002
+    },
+    {
+        "date": "2024-11-07",
+        "exchange": null,
+        "name": "Masonglory Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "MSGY",
+        "totalSharesValue": 10350000
+    },
+    {
+        "date": "2024-11-06",
+        "exchange": null,
+        "name": "AgiiPlus Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-11-05",
+        "exchange": null,
+        "name": "Skycorp Solar Group Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "PN",
+        "totalSharesValue": 15525000
+    },
+    {
+        "date": "2024-11-04",
+        "exchange": null,
+        "name": "FBS Global Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-11-04",
+        "exchange": null,
+        "name": "HOT MOM INTERNATIONAL INC.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "LAMA",
+        "totalSharesValue": 1000000
+    },
+    {
+        "date": "2024-11-04",
+        "exchange": null,
+        "name": "Mega Fortune Co Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "",
+        "totalSharesValue": 21562500
+    },
+    {
+        "date": "2024-11-04",
+        "exchange": null,
+        "name": "OMS Energy Technologies Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "OMSE",
+        "totalSharesValue": 63888890
+    },
+    {
+        "date": "2024-11-01",
+        "exchange": null,
+        "name": "Cantor Equity Partners I, Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "CEPO",
+        "totalSharesValue": 200000000
+    }
+]

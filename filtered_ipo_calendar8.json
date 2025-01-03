@@ -1,0 +1,192 @@
+[
+    {
+        "date": "2024-08-30",
+        "exchange": null,
+        "name": "Ruanyun Edai Technology Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "RYET",
+        "totalSharesValue": 21562500
+    },
+    {
+        "date": "2024-08-28",
+        "exchange": "NASDAQ Global",
+        "name": "Autozi Internet Technology (Global) Ltd.",
+        "numberOfShares": 2500000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "AZI",
+        "totalSharesValue": 10000000
+    },
+    {
+        "date": "2024-08-28",
+        "exchange": "NASDAQ Capital",
+        "name": "Safe Pro Group Inc.",
+        "numberOfShares": 1020000,
+        "price": "5.00",
+        "status": "priced",
+        "symbol": "SPAI",
+        "totalSharesValue": 5100000
+    },
+    {
+        "date": "2024-08-27",
+        "exchange": null,
+        "name": "Concorde International Group Ltd.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "CIGL",
+        "totalSharesValue": 5750000
+    },
+    {
+        "date": "2024-08-27",
+        "exchange": null,
+        "name": "Mercalot Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "",
+        "totalSharesValue": 120000
+    },
+    {
+        "date": "2024-08-23",
+        "exchange": "NASDAQ Capital",
+        "name": "WORK Medical Technology Group LTD",
+        "numberOfShares": 2000000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "WOK",
+        "totalSharesValue": 8000000
+    },
+    {
+        "date": "2024-08-22",
+        "exchange": null,
+        "name": "ZC GOLD Jewelry INC",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "ZCXX",
+        "totalSharesValue": 1000000
+    },
+    {
+        "date": "2024-08-21",
+        "exchange": null,
+        "name": "Yi Yue Digital Technology Group Corp",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "YYDT",
+        "totalSharesValue": 5000000
+    },
+    {
+        "date": "2024-08-19",
+        "exchange": null,
+        "name": "Cre8 Enterprise Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "CRE",
+        "totalSharesValue": 10062500
+    },
+    {
+        "date": "2024-08-16",
+        "exchange": "NYSE",
+        "name": "SilverBox Corp IV",
+        "numberOfShares": 20000000,
+        "price": "10.00",
+        "status": "priced",
+        "symbol": "SBXDU",
+        "totalSharesValue": 200000000
+    },
+    {
+        "date": "2024-08-15",
+        "exchange": null,
+        "name": "Thoughtful Media Group Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "TMGX",
+        "totalSharesValue": 11500000
+    },
+    {
+        "date": "2024-08-13",
+        "exchange": null,
+        "name": "FBS Global Ltd",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-08-13",
+        "exchange": "NASDAQ Global",
+        "name": "Cantor Equity Partners, Inc.",
+        "numberOfShares": 10000000,
+        "price": "10.00",
+        "status": "priced",
+        "symbol": "CEP",
+        "totalSharesValue": 100000000
+    },
+    {
+        "date": "2024-08-13",
+        "exchange": "NASDAQ Global",
+        "name": "ACTUATE THERAPEUTICS, INC.",
+        "numberOfShares": 2800000,
+        "price": "8.00",
+        "status": "priced",
+        "symbol": "ACTU",
+        "totalSharesValue": 22400000
+    },
+    {
+        "date": "2024-08-08",
+        "exchange": null,
+        "name": "First Person Ltd.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "withdrawn",
+        "symbol": null,
+        "totalSharesValue": null
+    },
+    {
+        "date": "2024-08-05",
+        "exchange": null,
+        "name": "Entertainment Activations Inc.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "",
+        "totalSharesValue": 100000
+    },
+    {
+        "date": "2024-08-02",
+        "exchange": null,
+        "name": "rYojbaba Co., Ltd.",
+        "numberOfShares": null,
+        "price": null,
+        "status": "filed",
+        "symbol": "RYOJ",
+        "totalSharesValue": 7187500
+    },
+    {
+        "date": "2024-08-01",
+        "exchange": "NASDAQ Capital",
+        "name": "Fifth District Bancorp, Inc.",
+        "numberOfShares": 5459473,
+        "price": "10.00",
+        "status": "priced",
+        "symbol": "FDSB",
+        "totalSharesValue": 54594730
+    },
+    {
+        "date": "2024-08-01",
+        "exchange": "NYSE MKT",
+        "name": "OS THERAPIES Inc",
+        "numberOfShares": 1600000,
+        "price": "4.00",
+        "status": "priced",
+        "symbol": "OSTX",
+        "totalSharesValue": 6400000
+    }
+]
