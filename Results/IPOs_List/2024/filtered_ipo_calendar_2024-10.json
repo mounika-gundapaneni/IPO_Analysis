@@ -20,16 +20,6 @@
         "totalSharesValue": 15668750
     },
     {
-        "date": "2024-10-31",
-        "exchange": null,
-        "name": "PicoCELA Inc.",
-        "numberOfShares": null,
-        "price": null,
-        "status": "filed",
-        "symbol": "PCLA",
-        "totalSharesValue": 13800000
-    },
-    {
         "date": "2024-10-30",
         "exchange": null,
         "name": "Archimedes Tech SPAC Partners II Co.",
@@ -288,16 +278,6 @@
         "status": "priced",
         "symbol": "CBNA",
         "totalSharesValue": 40700000
-    },
-    {
-        "date": "2024-10-04",
-        "exchange": null,
-        "name": "INFINITY NATURAL RESOURCES, INC.",
-        "numberOfShares": null,
-        "price": null,
-        "status": "filed",
-        "symbol": "INR",
-        "totalSharesValue": 100000000
     },
     {
         "date": "2024-10-04",

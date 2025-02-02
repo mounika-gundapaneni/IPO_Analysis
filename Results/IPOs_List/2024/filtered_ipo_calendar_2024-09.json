@@ -170,26 +170,6 @@
         "totalSharesValue": 7000000
     },
     {
-        "date": "2024-09-11",
-        "exchange": null,
-        "name": "Diginex Ltd",
-        "numberOfShares": null,
-        "price": null,
-        "status": "filed",
-        "symbol": "DGNX",
-        "totalSharesValue": 15525000
-    },
-    {
-        "date": "2024-09-11",
-        "exchange": null,
-        "name": "CLOUDASTRUCTURE, INC.",
-        "numberOfShares": null,
-        "price": null,
-        "status": "filed",
-        "symbol": "CSAI",
-        "totalSharesValue": 3315167
-    },
-    {
         "date": "2024-09-10",
         "exchange": "NASDAQ Global",
         "name": "XCHG Ltd",
@@ -218,16 +198,6 @@
         "status": "priced",
         "symbol": "PMAX",
         "totalSharesValue": 5707000
-    },
-    {
-        "date": "2024-09-04",
-        "exchange": null,
-        "name": "Mint Inc Ltd",
-        "numberOfShares": null,
-        "price": null,
-        "status": "filed",
-        "symbol": "MIMI",
-        "totalSharesValue": 10062500
     },
     {
         "date": "2024-09-03",

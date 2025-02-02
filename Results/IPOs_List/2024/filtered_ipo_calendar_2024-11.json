@@ -130,16 +130,6 @@
         "totalSharesValue": 5750000
     },
     {
-        "date": "2024-11-15",
-        "exchange": null,
-        "name": "LOGPROSTYLE INC.",
-        "numberOfShares": null,
-        "price": null,
-        "status": "filed",
-        "symbol": "LGPS",
-        "totalSharesValue": 17250000
-    },
-    {
         "date": "2024-11-14",
         "exchange": null,
         "name": "MaxsMaking Inc.",
@@ -308,15 +298,5 @@
         "status": "filed",
         "symbol": "OMSE",
         "totalSharesValue": 63888890
-    },
-    {
-        "date": "2024-11-01",
-        "exchange": null,
-        "name": "Cantor Equity Partners I, Inc.",
-        "numberOfShares": null,
-        "price": null,
-        "status": "filed",
-        "symbol": "CEPO",
-        "totalSharesValue": 200000000
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2024-04-30",
-        "exchange": "NASDAQ Capital",
-        "name": "RanMarine Technology B.V.",
-        "numberOfShares": 1572727,
-        "price": "5.50",
-        "status": "expected",
-        "symbol": "RAN",
-        "totalSharesValue": 8650000
-    },
-    {
         "date": "2024-04-29",
         "exchange": null,
         "name": "HW Electro Co., Ltd.",

@@ -132,16 +132,6 @@
     {
         "date": "2024-03-15",
         "exchange": null,
-        "name": "CTRL GROUP Ltd",
-        "numberOfShares": null,
-        "price": null,
-        "status": "filed",
-        "symbol": "MCTR",
-        "totalSharesValue": 17250000
-    },
-    {
-        "date": "2024-03-15",
-        "exchange": null,
         "name": "Libera Gaming Operations, Inc",
         "numberOfShares": null,
         "price": null,

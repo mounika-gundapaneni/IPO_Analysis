@@ -20,16 +20,6 @@
         "totalSharesValue": 19166670
     },
     {
-        "date": "2024-12-27",
-        "exchange": null,
-        "name": "ASCENTAGE PHARMA GROUP INTERNATIONAL",
-        "numberOfShares": null,
-        "price": null,
-        "status": "filed",
-        "symbol": "AAPG",
-        "totalSharesValue": 100000000
-    },
-    {
         "date": "2024-12-26",
         "exchange": null,
         "name": "SAGTEC GLOBAL Ltd",
@@ -37,7 +27,7 @@
         "price": null,
         "status": "filed",
         "symbol": "SAGT",
-        "totalSharesValue": 9200000
+        "totalSharesValue": 9056250
     },
     {
         "date": "2024-12-23",
@@ -136,8 +126,8 @@
         "numberOfShares": null,
         "price": null,
         "status": "filed",
-        "symbol": "",
-        "totalSharesValue": 20000000
+        "symbol": "JAJI",
+        "totalSharesValue": 11040000
     },
     {
         "date": "2024-12-16",
@@ -307,6 +297,6 @@
         "price": null,
         "status": "filed",
         "symbol": "GTSG",
-        "totalSharesValue": 18687500
+        "totalSharesValue": 7475000
     }
 ]
