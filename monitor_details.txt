@@ -1,0 +1,3 @@
+MonitorName|Manufacturer|SerialNumber
+|LEN|0
+LF27T35|SAM|H1AK500000

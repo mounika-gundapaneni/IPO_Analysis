@@ -1,0 +1,185 @@
+Name,DeviceID,Status
+Microsoft,AC,Adapter
+ThinkPad Thunderbolt 3 Dock,USB,Audio
+Microsoft ACPI-Compliant,Embedded,Controller
+HP722FB9 (HP OfficeJet Pro,8020,series)
+Microsoft ACPI-Compliant Control,Method,Battery
+I2C,HID,Device
+ACPI,Processor,Aggregator
+Intel(R) TypeC PCIE,-,9A27
+Root,Print,Queue
+Intel CSME,15.0.47.2473,Lp_Corp
+Standard NVM,Express,Controller
+Microsoft Input,Configuration,Device
+Generic,USB,Hub
+Standard,PS/2,Keyboard
+Microsoft Print,to,PDF
+WAN,Miniport,(PPPOE)
+Intel(R) USB 3.10 eXtensible Host Controller -,1.20,(Microsoft)
+HID-compliant,vendor-defined,device
+Microsoft Basic,Display,Driver
+Intel(R) Iris(R),Xe,Graphics
+ACPI,Thermal,Zone
+ACPI,Sleep,Button
+Microsoft,Hypervisor,Service
+HID-compliant wireless,radio,controls
+Intel(R),iCLS,Client
+Lenovo,Smart,Standby
+HID-compliant,system,controller
+HID,Keyboard,Device
+Microsoft RRAS,Root,Enumerator
+Microsoft Windows Management Interface,for,ACPI
+Microsoft Windows Management Interface,for,ACPI
+Microsoft Windows Management Interface,for,ACPI
+Microsoft Windows Management Interface,for,ACPI
+Microsoft Windows Management Interface,for,ACPI
+Microsoft Windows Management Interface,for,ACPI
+UCM-UCSI,ACPI,Device
+WAN,Miniport,(PPTP)
+ELAN,TrackPoint,Device
+Microsoft Hyper-V Virtualization,Infrastructure,Driver
+Generic,USB,Hub
+High precision,event,timer
+HP OfficeJet Pro 8020,series,[722FB9]
+WAN,Miniport,(IKEv2)
+Composite,Bus,Enumerator
+Microsoft Virtual,Drive,Enumerator
+Microsoft Storage,Spaces,Controller
+USB,Composite,Device
+Intel(R) USB 3.10 eXtensible Host Controller -,1.20,(Microsoft)
+Intelr Smart Sound Technology for,Digital,Microphones
+USB Root Hub,(USB,3.0)
+Microsoft Kernel Debug,Network,Adapter
+Programmable,interrupt,controller
+Speakers (12-,Realtek(R),Audio)
+Realtek Hardware,Support,Application
+HP722FB9 (HP OfficeJet Pro,8020,series)
+HID-compliant,vendor-defined,device
+Intel(R),Wireless,Bluetooth(R)
+Synaptics,UWP,WBDI
+Intel(R) Serial IO I2C Host Controller,-,A0E9
+Lenovo Fn and,function,keys
+HID-compliant,vendor-defined,device
+Fortemedia APO,Control,Service
+Intelr Smart Sound Technology for,USB,Audio
+Trusted Platform,Module,2.0
+Facial Recognition (Windows Hello),Software,Device
+Lenovo Intelligent,Thermal,Solution
+Thunderbolt(TM),HSA,Component
+UMBus Root,Bus,Enumerator
+Lenovo,PM,Device
+Charge,Arbitration,Driver
+HID-compliant,vendor-defined,device
+Synaptics UMDF Util,App,Component
+Microsoft Windows Management Interface,for,ACPI
+HID-compliant consumer,control,device
+Thunderbolt(TM),HSA,Component
+Microsoft Radio Device,Enumeration,Bus
+HP722FB9 (HP OfficeJet Pro,8020,series)
+Intel(R) USB 3.1 eXtensible Host Controller -,1.10,(Microsoft)
+Microsoft Input,Configuration,Device
+Intel(R) Graphics,Command,Center
+Microsoft Device Association,Root,Enumerator
+ACPI,x64-based,PC
+Realtek Audio,Universal,Service
+HID-compliant,touch,pad
+WAN Miniport,(Network,Monitor)
+WAN,Miniport,(IP)
+11th Gen Intel(R) Core(TM) i7-1185G7,@,3.00GHz
+11th Gen Intel(R) Core(TM) i7-1185G7,@,3.00GHz
+11th Gen Intel(R) Core(TM) i7-1185G7,@,3.00GHz
+11th Gen Intel(R) Core(TM) i7-1185G7,@,3.00GHz
+11th Gen Intel(R) Core(TM) i7-1185G7,@,3.00GHz
+11th Gen Intel(R) Core(TM) i7-1185G7,@,3.00GHz
+11th Gen Intel(R) Core(TM) i7-1185G7,@,3.00GHz
+11th Gen Intel(R) Core(TM) i7-1185G7,@,3.00GHz
+Intel(R) PEG60,-,9A09
+Microsoft Windows Management Interface,for,ACPI
+PCI Express,Root,Complex
+HID-compliant,vendor-defined,device
+PCI standard,RAM,Controller
+Microsoft Bluetooth,LE,Enumerator
+Generic,Monitor,(LF27T35)
+Microsoft,ACPI-Compliant,System
+Intel(R) SPI (flash) Controller,-,A0A4
+ETD,HSA,Device
+Microsoft Basic,Render,Driver
+Generic,USB,Hub
+Intel(R) Active Management Technology -,SOL,(COM10)
+WAN,Miniport,(SSTP)
+Intel(R) LPC Controller/eSPI Controller (U Premium),-,A082
+Thunderbolt(TM) Controller,-,9A1B
+Microsoft,UEFI-Compliant,System
+Intel(R) Serial IO GPIO Host Controller,-,INT34C5
+Lenovo,Intelligent,Sensing
+ACPI Fixed,Feature,Button
+Privacy Guard,Display,1920x1200
+HP OfficeJet Pro 8020,series,PCL-3
+HID,Keyboard,Device
+ACPI,Wake,Alarm
+Fortemedia SAMSoft,Effects,Component
+USB,Input,Device
+Intel(R) Ethernet Connection,(13),I219-LM
+USB Root Hub,(USB,3.0)
+Intel(R) Dynamic,Tuning,Manager
+PCI Express Downstream,Switch,Port
+PCI Express Downstream,Switch,Port
+Synaptics HID-Compliant Touch,pad,Device
+Generic SuperSpeed,USB,Hub
+Intel(R) Management Engine,Interface,#1
+HID-compliant,vendor-defined,device
+Intel(R) Management Engine,WMI,Provider
+USB,Input,Device
+Intel(R) Power,Engine,Plug-in
+USB,Composite,Device
+Intel(R) Dynamic Application Loader,Host,Interface
+Microsoft Wi-Fi Direct Virtual,Adapter,#5
+Microsoft Wi-Fi Direct Virtual,Adapter,#8
+Logitech USB,Input,Device
+Integrated,IR,Camera
+Intel(R) Dynamic Tuning,Processor,Participant
+USB Root Hub,(USB,3.0)
+Intel(R) Serial IO I2C Host Controller,-,A0E8
+HP722FB9 (HP OfficeJet Pro,8020,series)
+Intel(R) Wi-Fi 6 AX201,160MHz,#2
+Microsoft GS,Wavetable,Synth
+Intel(R) Dynamic Tuning,Generic,Participant
+Intel(R) Dynamic Tuning,Generic,Participant
+Intel(R) Graphics,Control,Panel
+Intel(R),Wireless,Manageability
+USB,Composite,Device
+Intel(R) Host Bridge/DRAM Registers,-,9A14
+Realtek Audio,Effects,Component
+Intel(R) TXT Authenticated,Code,Module
+Intel(R) Management and Security Application,Local,Management
+NDIS Virtual Network,Adapter,Enumerator
+Intel(R) TypeC PCIE,-,9A25
+Lenovo Battery,Firmware,258.2
+HP722FB9 (HP OfficeJet Pro,8020,series)
+Lenovo Power,and,Battery
+Generic SuperSpeed,USB,Hub
+Thunderbolt(TM) Controller,-,9A1D
+DolbyAPO,SWC,Device
+Intel(R) GNA Scoring,Accelerator,module
+Microsoft,Bluetooth,Enumerator
+Intelr Smart Sound Technology,Detection,Verification
+HID-compliant,touch,pad
+Microphone Array (3- Intelr Smart Sound Technology for,Digital,Microphones)
+WAN,Connection,Device
+Intelr Smart Sound,Technology,BUS
+Microsoft System Management,BIOS,Driver
+Intelr Smart Sound,Technology,OED
+Intel(R) SMBus,-,A0A3
+Intel(R) HID,Event,Filter
+Plug and Play Software,Device,Enumerator
+PCI Express Upstream,Switch,Port
+Remote Desktop Device,Redirector,Bus
+Bluetooth Device (RFCOMM,Protocol,TDI)
+Bluetooth Device (Personal Area,Network),#14
+ELAN,TrackPoint,Component
+USB,Input,Device
+WAN,Miniport,(IPv6)
+Lenovo,USB,Ethernet
+HID-compliant consumer,control,device
+DolbyAPO Software,Device,(HSA)
+WAN,Miniport,(L2TP)
